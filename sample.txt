@@ -1,0 +1,4 @@
+Step-1	Register your details
+Step-2	Login the application
+Step-3	Search the product
+Step-4	Add to cart
