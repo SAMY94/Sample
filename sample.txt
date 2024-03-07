@@ -4,4 +4,5 @@ Step-3	Search the product
 Step-4	Add to cart
 Step-5  Go to payment page
 Step-6  Order placed
-Step-7 - Return home page
+Step-7  Return home page
+Step-8  Adding Chat feature  
