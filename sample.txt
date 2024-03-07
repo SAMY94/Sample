@@ -2,4 +2,6 @@ Step-1	Register your details
 Step-2	Login the application
 Step-3	Search the product
 Step-4	Add to cart
-Step-5 Go to payment page
+Step-5  Go to payment page
+Step-6  Order placed
+Step-7 - Return home page
